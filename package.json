@@ -1,0 +1,9 @@
+{
+  "name": "project-cli",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "项目集成脚手架。",
+  "devDependencies": {
+    "vue-cli": "^2.8.1"
+  }
+}
