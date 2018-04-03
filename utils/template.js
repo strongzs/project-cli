@@ -482,7 +482,7 @@ export default {
             this.enterSystem()
           }).catch(err => {
             this.loading = false
-            this.$message.error(err.result) // 登录失败
+            this.$message.error(err.message) // 登录失败
           })
         }
       })
